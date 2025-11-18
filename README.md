@@ -70,4 +70,5 @@ This project is open-source and available under the [MIT License](LICENSE).
 ## Author
 
 **Nikunj Mehta**  
-GitHub: [https://github.com/Nikunj-Mehta](https://github.com/Nikunj-Mehta)
+GitHub: [https://github.com/Nikunj-Mehta](https://github.com/Nikunj-Mehta)  
+LinkedIn: [https://www.linkedin.com/in/nikunj-mehta-016a2a2b0/](https://www.linkedin.com/in/nikunj-mehta-016a2a2b0/)
